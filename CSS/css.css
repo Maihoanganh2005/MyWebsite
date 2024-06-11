@@ -16,7 +16,7 @@
 	width: 120px;
 	text-align: center;
    padding: 10px 20px;
-   background-image: url("../image/button.png");
+   background-image: url("../assets/image/button.png");
    background-size: 130px;
    background-repeat: no-repeat;
    transition: all;
@@ -273,7 +273,7 @@ hr {
 .an-img {
 	width: 100%;
 	background: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.95)),
-	url("../img/skyblock-pvp.png") no-repeat center center;
+	url("../assets/image/skyblock-pvp.png") no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 	padding: 100px 50px;

@@ -151,7 +151,7 @@ a:hover{
 	
 }
 #news{
-	background-image: url("../image/bgr.png");
+	background-image: url("../assets/image/bgr.png");
 	background-size: cover;
 	border-top: solid 5px black; 
 	background-attachment: fixed;
